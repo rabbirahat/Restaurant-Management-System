@@ -1,0 +1,24 @@
+Item Ordered --------------------- Quantity of Items
+
+BBQ Rice Bowl ---------------------- 3
+
+ Category of items ordered = 1 ---- Total Bill = 390.00 BDT
+
+
+
+Item Ordered --------------------- Quantity of Items
+
+French Fries ---------------------- 2
+
+ Category of items ordered = 1 ---- Total Bill = 150.00 BDT
+
+
+
+Item Ordered --------------------- Quantity of Items
+
+Cheeseburger ---------------------- 6
+
+ Category of items ordered = 1 ---- Total Bill = 900.00 BDT
+
+
+
